@@ -1,0 +1,44 @@
+----------------------------------------
+Begin Torque Prologue on nid25435
+at Fri Jul 17 15:31:49 CDT 2015
+Job Id:			2046236.nid11293
+Username:		maringan
+Group:			EOT_jtx
+Job name:		twostar-job
+Requested resources:	neednodes=1:ppn=16:xk+79:ppn=32:xe,nodes=1:ppn=16:xk+79:ppn=32:xe,walltime=00:05:00
+Queue:			normal
+Account:		jtx
+End Torque Prologue:  0.116 elapsed
+----------------------------------------
+
+OVERALL MINIMUM STEINER COST: 96003009 Root: 1341
+
+Parital stars of solution: 
+	intem: 463 NumGr: 8 IDs  88  82  83  84  91  87  86  85 
+	intem: 12 NumGr: 8 IDs  0  5  4  2  3  13  14  15 
+	intem: 79 NumGr: 6 IDs  10  11  17  18  12  20 
+	intem: 654 NumGr: 4 IDs  92  93  94  89 
+	intem: 125 NumGr: 6 IDs  25  34  35  59  36  26 
+	intem: 246 NumGr: 7 IDs  74  75  76  77  80  73  72 
+	intem: 106 NumGr: 5 IDs  27  37  38  23  39 
+	intem: 1745 NumGr: 8 IDs  7  8  9  1  19  21  22  6 
+	intem: 657 NumGr: 4 IDs  71  79  90  69 
+	intem: 195 NumGr: 5 IDs  57  58  95  64  61 
+	intem: 236 NumGr: 3 IDs  78  81  70 
+	intem: 110 NumGr: 5 IDs  28  29  40  16  41 
+	intem: 206 NumGr: 4 IDs  66  65  62  68 
+	intem: 161 NumGr: 5 IDs  50  51  53  48  49 
+	intem: 148 NumGr: 4 IDs  32  45  46  31 
+	intem: 144 NumGr: 6 IDs  24  33  42  43  30  44 
+	intem: 184 NumGr: 3 IDs  54  55  56 
+	intem: 1273 NumGr: 2 IDs  67  63 
+	intem: 176 NumGr: 2 IDs  47  52 
+	intem: 199 NumGr: 1 IDs  60 
+Final Graph Cost: 96001913
+GPU took 0.000000 seconds
+CPU took 0.000000 seconds
+Application 25620151 resources: utime ~5520s, stime ~12058s, Rss ~200148, inblocks ~1211695, outblocks ~20320
+
+real	0m22.246s
+user	0m0.092s
+sys	0m0.076s

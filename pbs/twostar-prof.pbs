@@ -1,0 +1,23 @@
+#!/bin/bash
+
+#PBS -l nodes=15:ppn=16:xk
+
+#PBS -l walltime=02:00:00
+
+#PBS -o twostar-prof-out
+#PBS -j oe
+
+#PBS -N twostar-job
+
+module unload darshan
+module load craype-accel-nvidia35
+module load perftools
+module load cudatoolkit
+
+export CRAY_CUDA_MPS=0
+export CRAY_CUDA_PROXY=0
+export PAT_RT_SUMMARY=0
+
+cd $PBS_O_WORKDIR
+
+aprun -n 240 ./twostar+pat < testGraphs/2518.txt -p

@@ -1,0 +1,17 @@
+#!/bin/bash
+
+#PBS -l nodes=1:ppn=16:xk+12:ppn=32:xe
+
+#PBS -l walltime=00:05:00
+
+#PBS -o log/output_370_370.log
+
+#PBS -j oe
+
+#PBS -N twostar-job
+
+module load cudatoolkit
+
+cd $PBS_O_WORKDIR
+
+time aprun -n 1 ./twostar < testGraphs/370.txt -p : -n 369 ./twostar < testGraphs/370.txt -p

@@ -1,0 +1,102 @@
+aprun: Apid 25613130: Caught signal Terminated, sending to application
+aprun: Apid 25613130: Caught signal Terminated, sending to application
+aprun: Apid 25613130: Caught signal Terminated, sending to application
+aprun: Apid 25613130: Caught signal Terminated, sending to application
+aprun: Apid 25613130: Caught signal Terminated, sending to application
+aprun: Apid 25613130: Caught signal Terminated, sending to application
+aprun: Apid 25613130: Caught signal Terminated, sending to application
+_pmiu_daemon(SIGCHLD): [NID 25185] [c5-2c0s0n3] [Fri Jul 17 01:46:38 2015] PE RANK 0 exit signal Terminated
+aprun: Apid 25613130: Caught signal Terminated, sending to application
+aprun: Apid 25613130: Caught signal Terminated, sending to application
+aprun: Apid 25613130: Caught signal Terminated, sending to application
+aprun: Apid 25613130: Caught signal Terminated, sending to application
+aprun: Apid 25613130: Caught signal Terminated, sending to application
+_pmiu_daemon(SIGCHLD): [NID 00327] [c0-6c0s3n1] [Fri Jul 17 01:46:38 2015] PE RANK 191 exit signal Terminated
+aprun: Apid 25613130: Caught signal Terminated, sending to application
+_pmiu_daemon(SIGCHLD): [NID 01956] [c2-6c0s2n2] [Fri Jul 17 01:46:38 2015] PE RANK 2299 exit signal Terminated
+_pmiu_daemon(SIGCHLD): [NID 02651] [c4-6c0s2n3] [Fri Jul 17 01:46:38 2015] PE RANK 2015 exit signal Terminated
+_pmiu_daemon(SIGCHLD): [NID 02652] [c4-6c0s1n2] [Fri Jul 17 01:46:38 2015] PE RANK 1919 exit signal Terminated
+_pmiu_daemon(SIGCHLD): [NID 01979] [c2-6c0s2n1] [Fri Jul 17 01:46:38 2015] PE RANK 1084 exit signal Terminated
+_pmiu_daemon(SIGCHLD): [NID 01980] [c2-6c0s1n0] [Fri Jul 17 01:46:38 2015] PE RANK 991 exit signal Terminated
+_pmiu_daemon(SIGCHLD): [NID 02628] [c4-6c0s2n0] [Fri Jul 17 01:46:38 2015] PE RANK 735 exit signal Terminated
+_pmiu_daemon(SIGCHLD): [NID 27324] [c1-6c0s1n0] [Fri Jul 17 01:46:38 2015] PE RANK 334 exit signal Terminated
+_pmiu_daemon(SIGCHLD): [NID 00324] [c0-6c0s2n0] [Fri Jul 17 01:46:38 2015] PE RANK 95 exit signal Terminated
+_pmiu_daemon(SIGCHLD): [NID 27320] [c1-6c0s3n0] [Fri Jul 17 01:46:38 2015] PE RANK 479 exit signal Terminated
+_pmiu_daemon(SIGCHLD): [NID 02631] [c4-6c0s3n1] [Fri Jul 17 01:46:38 2015] PE RANK 817 exit signal Terminated
+_pmiu_daemon(SIGCHLD): [NID 02647] [c4-6c0s4n3] [Fri Jul 17 01:46:38 2015] PE RANK 2143 exit signal Terminated
+_pmiu_daemon(SIGCHLD): [NID 02648] [c4-6c0s3n2] [Fri Jul 17 01:46:38 2015] PE RANK 2046 exit signal Terminated
+_pmiu_daemon(SIGCHLD): [NID 27303] [c1-6c0s3n3] [Fri Jul 17 01:46:38 2015] PE RANK 1789 exit signal Terminated
+_pmiu_daemon(SIGCHLD): [NID 00343] [c0-6c0s4n3] [Fri Jul 17 01:46:38 2015] PE RANK 1533 exit signal Terminated
+_pmiu_daemon(SIGCHLD): [NID 00344] [c0-6c0s3n2] [Fri Jul 17 01:46:38 2015] PE RANK 1438 exit signal Terminated
+_pmiu_daemon(SIGCHLD): [NID 00348] [c0-6c0s1n2] [Fri Jul 17 01:46:38 2015] PE RANK 1311 exit signal Terminated
+_pmiu_daemon(SIGCHLD): [NID 01975] [c2-6c0s4n1] [Fri Jul 17 01:46:38 2015] PE RANK 1214 exit signal Terminated
+_pmiu_daemon(SIGCHLD): [NID 01976] [c2-6c0s3n0] [Fri Jul 17 01:46:38 2015] PE RANK 1119 exit signal Terminated
+_pmiu_daemon(SIGCHLD): [NID 27319] [c1-6c0s4n1] [Fri Jul 17 01:46:38 2015] PE RANK 574 exit signal Terminated
+_pmiu_daemon(SIGCHLD): [NID 00347] [c0-6c0s2n3] [Fri Jul 17 01:46:38 2015] PE RANK 1404 exit signal Terminated
+_pmiu_daemon(SIGCHLD): [NID 27302] [c1-6c0s3n2] [Fri Jul 17 01:46:38 2015] PE RANK 1756 exit signal Terminated
+_pmiu_daemon(SIGCHLD): [NID 01960] [c2-6c0s4n2] [Fri Jul 17 01:46:38 2015] PE RANK 2420 exit signal Terminated
+_pmiu_daemon(SIGCHLD): [NID 01959] [c2-6c0s3n3] [Fri Jul 17 01:46:38 2015] PE RANK 2379 exit signal Terminated
+_pmiu_daemon(SIGCHLD): [NID 27301] [c1-6c0s2n3] [Fri Jul 17 01:46:38 2015] PE RANK 1727 exit signal Terminated
+_pmiu_daemon(SIGCHLD): [NID 02632] [c4-6c0s4n0] [Fri Jul 17 01:46:38 2015] PE RANK 847 exit signal Terminated
+_pmiu_daemon(SIGCHLD): [NID 02629] [c4-6c0s2n1] [Fri Jul 17 01:46:38 2015] PE RANK 767 exit signal Terminated
+aprun: Apid 25613130: Caught signal Terminated, sending to application
+_pmiu_daemon(SIGCHLD): [NID 00328] [c0-6c0s4n0] [Fri Jul 17 01:46:38 2015] PE RANK 223 exit signal Terminated
+_pmiu_daemon(SIGCHLD): [NID 00325] [c0-6c0s2n1] [Fri Jul 17 01:46:38 2015] PE RANK 104 exit signal Terminated
+_pmiu_daemon(SIGCHLD): [NID 00326] [c0-6c0s3n0] [Fri Jul 17 01:46:38 2015] PE RANK 151 exit signal Terminated
+_pmiu_daemon(SIGCHLD): [NID 27325] [c1-6c0s1n1] [Fri Jul 17 01:46:38 2015] PE RANK 375 exit signal Terminated
+_pmiu_daemon(SIGCHLD): [NID 02630] [c4-6c0s3n0] [Fri Jul 17 01:46:38 2015] PE RANK 793 exit signal Terminated
+_pmiu_daemon(SIGCHLD): [NID 00349] [c0-6c0s1n3] [Fri Jul 17 01:46:38 2015] PE RANK 1343 exit signal Terminated
+_pmiu_daemon(SIGCHLD): [NID 27300] [c1-6c0s2n2] [Fri Jul 17 01:46:38 2015] PE RANK 1695 exit signal Terminated
+_pmiu_daemon(SIGCHLD): [NID 02653] [c4-6c0s1n3] [Fri Jul 17 01:46:38 2015] PE RANK 1950 exit signal Terminated
+_pmiu_daemon(SIGCHLD): [NID 01957] [c2-6c0s2n3] [Fri Jul 17 01:46:38 2015] PE RANK 2318 exit signal Terminated
+_pmiu_daemon(SIGCHLD): [NID 01958] [c2-6c0s3n2] [Fri Jul 17 01:46:38 2015] PE RANK 2366 exit signal Terminated
+_pmiu_daemon(SIGCHLD): [NID 01954] [c2-6c0s1n2] [Fri Jul 17 01:46:38 2015] PE RANK 2229 exit signal Terminated
+_pmiu_daemon(SIGCHLD): [NID 02644] [c4-6c0s5n2] [Fri Jul 17 01:46:38 2015] PE RANK 2169 exit signal Terminated
+_pmiu_daemon(SIGCHLD): [NID 02650] [c4-6c0s2n2] [Fri Jul 17 01:46:38 2015] PE RANK 1967 exit signal Terminated
+_pmiu_daemon(SIGCHLD): [NID 27305] [c1-6c0s4n3] [Fri Jul 17 01:46:38 2015] PE RANK 1838 exit signal Terminated
+_pmiu_daemon(SIGCHLD): [NID 27299] [c1-6c0s1n3] [Fri Jul 17 01:46:38 2015] PE RANK 1658 exit signal Terminated
+_pmiu_daemon(SIGCHLD): [NID 00340] [c0-6c0s5n2] [Fri Jul 17 01:46:38 2015] PE RANK 1567 exit signal Terminated
+_pmiu_daemon(SIGCHLD): [NID 00345] [c0-6c0s3n3] [Fri Jul 17 01:46:38 2015] PE RANK 1470 exit signal Terminated
+_pmiu_daemon(SIGCHLD): [NID 00346] [c0-6c0s2n2] [Fri Jul 17 01:46:38 2015] PE RANK 1367 exit signal Terminated
+_pmiu_daemon(SIGCHLD): [NID 01973] [c2-6c0s5n1] [Fri Jul 17 01:46:38 2015] PE RANK 1278 exit signal Terminated
+_pmiu_daemon(SIGCHLD): [NID 01972] [c2-6c0s5n0] [Fri Jul 17 01:46:38 2015] PE RANK 1234 exit signal Terminated
+_pmiu_daemon(SIGCHLD): [NID 01977] [c2-6c0s3n1] [Fri Jul 17 01:46:38 2015] PE RANK 1145 exit signal Terminated
+_pmiu_daemon(SIGCHLD): [NID 01981] [c2-6c0s1n1] [Fri Jul 17 01:46:38 2015] PE RANK 1023 exit signal Terminated
+_pmiu_daemon(SIGCHLD): [NID 02635] [c4-6c0s5n1] [Fri Jul 17 01:46:38 2015] PE RANK 930 exit signal Terminated
+_pmiu_daemon(SIGCHLD): [NID 02627] [c4-6c0s1n1] [Fri Jul 17 01:46:38 2015] PE RANK 703 exit signal Terminated
+_pmiu_daemon(SIGCHLD): [NID 27316] [c1-6c0s5n0] [Fri Jul 17 01:46:38 2015] PE RANK 607 exit signal Terminated
+_pmiu_daemon(SIGCHLD): [NID 27321] [c1-6c0s3n1] [Fri Jul 17 01:46:38 2015] PE RANK 511 exit signal Terminated
+_pmiu_daemon(SIGCHLD): [NID 27322] [c1-6c0s2n0] [Fri Jul 17 01:46:38 2015] PE RANK 415 exit signal Terminated
+_pmiu_daemon(SIGCHLD): [NID 00331] [c0-6c0s5n1] [Fri Jul 17 01:46:38 2015] PE RANK 309 exit signal Terminated
+_pmiu_daemon(SIGCHLD): [NID 00323] [c0-6c0s1n1] [Fri Jul 17 01:46:38 2015] PE RANK 63 exit signal Terminated
+_pmiu_daemon(SIGCHLD): [NID 02633] [c4-6c0s4n1] [Fri Jul 17 01:46:38 2015] PE RANK 892 exit signal Terminated
+_pmiu_daemon(SIGCHLD): [NID 02646] [c4-6c0s4n2] [Fri Jul 17 01:46:38 2015] PE RANK 2110 exit signal Terminated
+_pmiu_daemon(SIGCHLD): [NID 01961] [c2-6c0s4n3] [Fri Jul 17 01:46:38 2015] PE RANK 2448 exit signal Terminated
+_pmiu_daemon(SIGCHLD): [NID 00329] [c0-6c0s4n1] [Fri Jul 17 01:46:38 2015] PE RANK 234 exit signal Terminated
+aprun: Apid 25613130: Caught signal Terminated, sending to application
+_pmiu_daemon(SIGCHLD): [NID 01955] [c2-6c0s1n3] [Fri Jul 17 01:46:38 2015] PE RANK 2271 exit signal Terminated
+_pmiu_daemon(SIGCHLD): [NID 02645] [c4-6c0s5n3] [Fri Jul 17 01:46:38 2015] PE RANK 2204 exit signal Terminated
+_pmiu_daemon(SIGCHLD): [NID 02649] [c4-6c0s3n3] [Fri Jul 17 01:46:38 2015] PE RANK 2069 exit signal Terminated
+_pmiu_daemon(SIGCHLD): [NID 27298] [c1-6c0s1n2] [Fri Jul 17 01:46:38 2015] PE RANK 1624 exit signal Terminated
+_pmiu_daemon(SIGCHLD): [NID 00342] [c0-6c0s4n2] [Fri Jul 17 01:46:38 2015] PE RANK 1502 exit signal Terminated
+_pmiu_daemon(SIGCHLD): [NID 01974] [c2-6c0s4n0] [Fri Jul 17 01:46:38 2015] PE RANK 1182 exit signal Terminated
+_pmiu_daemon(SIGCHLD): [NID 01978] [c2-6c0s2n0] [Fri Jul 17 01:46:38 2015] PE RANK 1056 exit signal Terminated
+_pmiu_daemon(SIGCHLD): [NID 02626] [c4-6c0s1n0] [Fri Jul 17 01:46:38 2015] PE RANK 668 exit signal Terminated
+_pmiu_daemon(SIGCHLD): [NID 27318] [c1-6c0s4n0] [Fri Jul 17 01:46:38 2015] PE RANK 543 exit signal Terminated
+_pmiu_daemon(SIGCHLD): [NID 27317] [c1-6c0s5n1] [Fri Jul 17 01:46:38 2015] PE RANK 639 exit signal Terminated
+_pmiu_daemon(SIGCHLD): [NID 00341] [c0-6c0s5n3] [Fri Jul 17 01:46:38 2015] PE RANK 1598 exit signal Terminated
+_pmiu_daemon(SIGCHLD): [NID 00322] [c0-6c0s1n0] [Fri Jul 17 01:46:38 2015] PE RANK 1 exit signal Terminated
+aprun: Apid 25613130: Caught signal Terminated, sending to application
+_pmiu_daemon(SIGCHLD): [NID 27304] [c1-6c0s4n2] [Fri Jul 17 01:46:38 2015] PE RANK 1813 exit signal Terminated
+_pmiu_daemon(SIGCHLD): [NID 27323] [c1-6c0s2n1] [Fri Jul 17 01:46:38 2015] PE RANK 429 exit signal Terminated
+aprun: Apid 25613130: Caught signal Terminated, sending to application
+_pmiu_daemon(SIGCHLD): [NID 02634] [c4-6c0s5n0] [Fri Jul 17 01:46:38 2015] PE RANK 918 exit signal Terminated
+aprun: Apid 25613130: Caught signal Terminated, sending to application
+_pmiu_daemon(SIGCHLD): [NID 01962] [c2-6c0s5n2] [Fri Jul 17 01:46:38 2015] PE RANK 2489 exit signal Terminated
+_pmiu_daemon(SIGCHLD): [NID 27306] [c1-6c0s5n2] [Fri Jul 17 01:46:38 2015] PE RANK 1867 exit signal Terminated
+_pmiu_daemon(SIGCHLD): [NID 00330] [c0-6c0s5n0] [Fri Jul 17 01:46:38 2015] PE RANK 285 exit signal Terminated
+aprun: Apid 25613130: Caught signal Terminated, sending to application
+_pmiu_daemon(SIGCHLD): [NID 01963] [c2-6c0s5n3] [Fri Jul 17 01:46:38 2015] PE RANK 2497 exit signal Terminated
+aprun: Apid 25613130: Caught signal Terminated, sending to application
+aprun: Apid 25613130: Caught signal Terminated, sending to application
+aprun: Apid 25613130: Caught signal Terminated, sending to application

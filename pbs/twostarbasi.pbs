@@ -1,0 +1,22 @@
+#!/bin/bash
+
+#PBS -l nodes=128:ppn=1:xk
+
+#PBS -l walltime=00:5:00
+
+#PBS -o twostar-out
+#PBS -e twostar-err
+
+#PBS -N twostar-job
+
+#module load craype-accel-nvidia35
+#module load perftools
+module load cudatoolkit
+
+export CRAY_CUDA_PROXY=0
+export PAT_RT_SUMMARY=0
+
+cd $PBS_O_WORKDIR
+
+time aprun -n $((128*1)) ./twostar < testGraphs/ALUE/alue7229.stp -t
+
